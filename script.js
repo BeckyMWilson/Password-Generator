@@ -6,7 +6,7 @@ const generateBtn = document.querySelector("#generate");
 const lowerCaseLetters = "abcdefghijklmnopqrstuvwxyz";
 const upperCaseLetters = ("abcdefghijklmnopqrstuvwxyz").toUpperCase();
 const numberList = "0123456789";
-const specialCharacters = " !#$%&'()*+,-./:;<=>?@[\]^_`{|}~'";
+const specialCharacters = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~'";
 
 // Write password to the #password input
 // TODO: Function function writePassword() is taking too long //
